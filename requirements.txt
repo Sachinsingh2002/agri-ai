@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+Pillow
+numpy
+openai
+tensorflow
+pandas
+nltk
